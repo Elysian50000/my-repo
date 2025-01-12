@@ -1,1 +1,1 @@
-"This is my repository"
+This is the README file for my-repo.
